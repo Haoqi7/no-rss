@@ -1,0 +1,17 @@
+{
+  "pages": [
+    "pages/rsslist/rsslist",
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/detail/detail",
+    "pages/rsscenter/rsscenter",
+    "pages/setting/more"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#0061b2",
+    "navigationBarTitleText": "RSS Reader",
+    "navigationBarTextStyle": "white"
+  },
+  "sitemapLocation": "sitemap.json"
+}
